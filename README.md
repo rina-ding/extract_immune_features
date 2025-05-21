@@ -1,9 +1,9 @@
 # extract_immune_features
 Nuclei detection/classification and extraction of immune-tumor colocalization features
 
-This code achieves nuclei detection/classification using the TIAToolBox first and then extract immune-tumor colocalization features for one image tile. You can modify the code to extract features from all provided tiles from a whole slide image in the future.
+This code achieves nuclei detection/classification using the [TIAToolBox](https://github.com/TissueImageAnalytics/tiatoolbox) first and then extract immune-tumor colocalization features for one image tile. You can modify the code to extract features from all provided tiles from a whole slide image in the future.
 
-See this documentation for details on the 27 immune-tumor colocalization features: https://docs.google.com/document/d/1rn1eI37WYUh5Kgx_OwyMVFFxXpfjKVxJ-Qg7lUQ-m3o/edit?tab=t.0
+See this [documentation](https://docs.google.com/document/d/1rn1eI37WYUh5Kgx_OwyMVFFxXpfjKVxJ-Qg7lUQ-m3o/edit?tab=t.0) for details on the 27 immune-tumor colocalization features.
 
 ### Required packages
 First, create a pytorch docker container using:
