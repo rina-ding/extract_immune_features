@@ -36,4 +36,9 @@ The outputs are saved in the `./example_input/results` folder
 3. `tile_features.csv` contains the extracted 27 immune-tumor colocalization features.
 4. `overlaid_predictions.png` visualizes the nuclei classification results on your original image tile.
 
+### References
+
+- https://github.com/TissueImageAnalytics/tiatoolbox
+- Shaban, Muhammad, et al. "A novel digital score for abundance of tumour infiltrating lymphocytes predicts disease free survival in oral squamous cell carcinoma." Scientific reports 9.1 (2019): 13341.
+- Ding, Ruiwen, et al. "Image analysis reveals molecularly distinct patterns of TILs in NSCLC associated with treatment outcome." NPJ precision oncology 6.1 (2022): 33.
 
